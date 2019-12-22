@@ -1,5 +1,5 @@
 {
-    "name": "andrey/contao-kwicks-component",
+    "name": "ameotoko/contao-kwicks-component",
     "description": "Kwicks plugin for jQuery as a Contao component",
     "type": "contao-component",
     "license": "LGPL-3.0-or-later",
